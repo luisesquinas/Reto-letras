@@ -1,0 +1,23 @@
+#cont {
+    margin: 0;
+}
+
+.letter-box {
+    font-size: 2rem;
+    color: white;
+    padding: 30px;
+    border: 1px solid #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#A { background-color: yellow; }
+#B { background-color: blue; }
+#C { background-color: pink; }
+#D { background-color: orange; }
+#E { background-color: red; }
+#F { background-color: turquoise; }
+#G { background-color: green; }
+#H { background-color: purple; color: white; font-size: 2rem; height: auto; }
